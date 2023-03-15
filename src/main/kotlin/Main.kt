@@ -1,6 +1,7 @@
 interface Challenge1{
     fun barisBintang()
 }
+//Pricillia Yusoko Putri
 
 fun main(){
     val piramida = Piramid1()
