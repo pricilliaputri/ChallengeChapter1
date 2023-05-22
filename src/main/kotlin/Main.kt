@@ -4,7 +4,7 @@ interface Challenge1{
 //Pricillia Yusoko Putri
 
 fun main(){
-    val piramida = Piramid1()
+    val piramida = Piramid()
     piramida.barisBintang()
     println("Pola Piramida1 \n")
 

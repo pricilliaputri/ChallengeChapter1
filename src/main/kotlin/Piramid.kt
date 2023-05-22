@@ -1,4 +1,4 @@
-class Piramid1():Challenge1{
+class Piramid():Challenge1{
     override fun barisBintang() {
         var polaPiramid1 = 8
         var j = 0
